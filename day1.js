@@ -1,6 +1,6 @@
 // input the data
 const fs = require('fs');
-const input = fs.readFileSync('day1/data.txt', 'utf8');
+const input = fs.readFileSync('data_day1.txt', 'utf8');
 
 // run function
 function captcha(input,compIndex){
