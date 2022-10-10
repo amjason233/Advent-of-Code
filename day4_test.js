@@ -1,4 +1,4 @@
-const passphrase = require('../day4/day4-amanda');
+const passphrase = require('day4');
 const assert = require('assert');
 
 describe('high-entropy passphrases part 1', function () {
