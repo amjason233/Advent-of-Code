@@ -1,4 +1,4 @@
-const jump = require('../day5/day5-amanda');
+const jump = require('day5');
 const assert = require('assert');
 
 describe('maze of trampolines part 1', function () {
