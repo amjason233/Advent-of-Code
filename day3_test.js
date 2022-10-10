@@ -1,4 +1,4 @@
-const spiralMem = require('../day3/day3-amanda');
+const spiralMem = require('day3');
 const assert = require('assert');
 
 describe('spiral memory part 1', function () {
