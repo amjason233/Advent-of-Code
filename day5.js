@@ -1,5 +1,5 @@
 const fs = require('fs');
-const input = fs.readFileSync('day5/data.txt', 'utf8');
+const input = fs.readFileSync('data_day5.txt', 'utf8');
 
 function part1 (input){
     let jumps = input.split('\n').map((digit) => parseInt(digit));
