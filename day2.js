@@ -1,6 +1,6 @@
 // input the data
 const fs = require('fs');
-const allNums = fs.readFileSync('day2/data.txt', 'utf8');
+const allNums = fs.readFileSync('data_day2.txt', 'utf8');
 
 // master method to separte array elements
 function findSum(allNums,func) {
