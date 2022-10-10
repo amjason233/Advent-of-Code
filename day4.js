@@ -1,5 +1,5 @@
 const fs = require('fs');
-const input = fs.readFileSync('day4/data.txt', 'utf8');
+const input = fs.readFileSync('data_day4.txt', 'utf8');
 
 function part1 (prev, curr){
     const words = curr.split(' ');
